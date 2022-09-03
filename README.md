@@ -1,1 +1,1 @@
-#This project is sponsored by Akhilesh Yadav
+##This is a kind of todo list where you can list your tasks.
