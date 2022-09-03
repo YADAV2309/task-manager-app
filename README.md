@@ -1,2 +1,1 @@
-# task-manager-app
-This app was created by the great Rahul Sardar.
+#This project is sponsored by Akhilesh Yadav
