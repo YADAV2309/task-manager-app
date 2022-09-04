@@ -1,2 +1,1 @@
-# task-manager-app
-This app was created by the great Rahul Sardar.
+##This is a kind of todo list where you can list your tasks.
